@@ -19,7 +19,7 @@ olthuawei;script;holtrancid
 oltparks;login;parkslogin
 oltparks;script;parksrancid
 
-## HUAWEI - BACKBONE
+## HUAWEI - Router/Switch
 swhuawei;login;h3clogin
 swhuawei;script;h3crancid
 
