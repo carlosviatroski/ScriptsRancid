@@ -3,31 +3,31 @@
 Scripts do Rancid para backup de network devices...
 
 
-####################### MIKROTIK ################################
+## MIKROTIK 
 mikrotik;script;mtrancid
 mikrotik;login;mtlogin
 
-###################### UBNT #####################################
+## UBNT 
 ubnt;login;ulogin
 ubnt;script;urancid
 
-###################### HUAWEI - OLT #############################
+## HUAWEI - OLT
 olthuawei;login;holtlogin
 olthuawei;script;holtrancid
 
-##################### PARKS - OLT ##############################
+## PARKS - OLT 
 oltparks;login;parkslogin
 oltparks;script;parksrancid
 
-##################### HUAWEI - BACKBONE ########################
+## HUAWEI - BACKBONE
 swhuawei;login;h3clogin
 swhuawei;script;h3crancid
 
-##################### DATACOM ##################################
+## DATACOM 
 datacom;login;datalogin
 datacom;script;datarancid
 
-##################### CAMBIUM ##################################
+## CAMBIUM
 cambium;login;cambiumlogin
 cambium;script;cambiumrancid
 
